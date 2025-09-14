@@ -9,7 +9,7 @@
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your/repo/graphs/commit-activity)
   [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](README.md)
 
-  [English](README_EN.md) | [Türkçe](README.md)
+  [English](README.md) | [Türkçe](README.md)
 </div>
 
 Bu proje, TypeScript'i temel seviyeden ileri seviyeye kadar öğrenmek isteyenler için hazırlanmış kapsamlı bir eğitim materyalidir.
