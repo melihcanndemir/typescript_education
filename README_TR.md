@@ -1,19 +1,7 @@
-# TypeScript Educational Project 🚀
-
-<div align="center">
-  <img src="typescript.jpg" alt="TypeScript Logo" width="200"/>
-
-  [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your/repo/graphs/commit-activity)
-  [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](README.md)
-</div>
-
 # TypeScript Eğitim Projesi 🚀
 
 <div align="center">
-  <img src="typescript.jpg" alt="TypeScript Logo" width="200"/>
+  <img src="assets/typescript.jpg" alt="TypeScript Logo" width="200"/>
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
