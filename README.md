@@ -1,7 +1,7 @@
 # TypeScript Educational Project 🚀
 
 <div align="center">
-  <img src="typescript.jpg" alt="TypeScript Logo" width="200"/>
+  <img src="assets/typescript.jpg" alt="TypeScript Logo" width="200"/>
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
